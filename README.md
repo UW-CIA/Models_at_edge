@@ -17,4 +17,5 @@ ___
 <a href="https://github.com/UW-CIA/Models_at_edge/graphs/stars" alt="Stars">
 <img src="https://img.shields.io/github/stars/UW-CIA/Models_at_edge" /></a>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 
