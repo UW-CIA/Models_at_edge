@@ -1,5 +1,8 @@
 # Models_at_edge
+*Running the generative model (VAE) anomaly detector at the edge - IOS/Android* 
 
+<br> <br> 
+Part of the following effort: 
 **HARNESSING THE POWER OF GENERATIVE MODELS FOR MOBILE CONTINUOUS AND IMPLICIT AUTHENTICATION**
 
 Interconnecting the following works: 
