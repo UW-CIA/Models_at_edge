@@ -12,7 +12,7 @@ ___
 
 
 # Models_at_edge
-*Running the generative model (VAE) anomaly detector at the edge - IOS/Android* 
+*Running the generative model (VAE) anomaly detector at the edge - IOS/Android/IoT* 
 
 <br> <br> 
 Part of the following effort: 
