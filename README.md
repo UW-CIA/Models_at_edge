@@ -52,3 +52,9 @@ Authentication, Artificial Intelligence
 Two different implementations are successfully converted to tflite models that are easily ran at edge thanks to the tflite framework. 
 
 REF: https://www.tensorflow.org/lite
+
+## Instructions 
+* Train models using the jupyter notebooks 
+* Generate ".tflite" files using the jupyter notebooks 
+* For Android: Make sure you have Android Studio (>=3.2). You need an Android device and Android development environment with minimum API 21. Template app can be found here https://github.com/tensorflow/examples/tree/master/lite/examples/sound_classification/android/
+* For IOS: You must have Xcode installed and a valid Apple Developer ID. You don't need to build the entire TensorFlow library to run the demo, it uses CocoaPods to download the TensorFlow Lite library. You'll also need the Xcode command-line tools: xcode-select --install If this is a new install, you will need to run the Xcode application once to agree to the license before continuing. Template app can be found here https://github.com/tensorflow/examples/tree/master/lite/examples/sound_classification/ios 
